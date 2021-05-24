@@ -115,6 +115,3 @@ class ShenZhenAir:
 if __name__ == '__main__':
 	app = ShenZhenAir()
 	app.main()
-
-
-	'https://pan.baidu.com/s/1n2NubUiUspnCj0CzknnFXg Ã·»°¬Î: hww4'
